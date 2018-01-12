@@ -2,11 +2,11 @@
 
 title: "Where has all the water (rum) gone?"
 date: 2017-12-28
-output: html_document
 permalink: /posts/2017/12/Where-has-all-the-water-(rum)-gone/
 ---
 
-## Introduction and Exploratory Data Analysis
+Introduction and Exploratory Data Analysis
+------
 
 Every once and a while I notice an article that talks about how much water someone should be drinking a day. It seems, that the standard is eight 8-ounce glasses of water a day. This translates to 64 ounces a day and 23,360 ounces or 690.8 litres a year. So that got me thinking about how much water is actually consumed within Toronto in a given year. So I set off to find a set of data that might help me accomplish this task. 
 
@@ -24,7 +24,8 @@ The figure below shows the range of average water usage values across all wards 
 ![center](/images/2017-12-28-Where-has-all-the-water-gone/Average_Residential_Usage_2001_and_2015.PNG)
 *Figure 2: Average Residential Usage by City Ward*
 
-## Geospatial Analysis 
+Geospatial Analysis 
+------
 
 This dataset is also an exciting opportunity to play with R’s geospatial mapping libraries. So I set off to download shape-file information from the city of Toronto website and start playing around with the data. The results of my geospatial work can be found below.
 
