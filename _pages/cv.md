@@ -11,13 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* HBSc in Mathematics, Economics, and Applied Statistics, University of Toronto at Mississauga, 2011
+* M.A. in Economics, University of Toronto, 2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Summer 2012 - Current: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
