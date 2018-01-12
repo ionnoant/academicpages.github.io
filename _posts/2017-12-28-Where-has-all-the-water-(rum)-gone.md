@@ -1,11 +1,9 @@
 ---
-layout: post
+
 title: "Where has all the water (rum) gone?"
-author: anthony_ionno
 date: 2017-12-28
 output: html_document
-categories: blog
-excerpt:  "A Geospatial Analysis of Toronto Water Usage Data"
+
 ---
 
 ## Introduction and Exploratory Data Analysis
