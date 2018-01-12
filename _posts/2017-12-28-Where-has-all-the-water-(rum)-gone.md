@@ -2,7 +2,6 @@
 
 title: "Where has all the water (rum) gone?"
 date: 2017-12-28
-permalink: /posts/2017/12/Where-has-all-the-water-(rum)-gone/
 ---
 
 Introduction and Exploratory Data Analysis
