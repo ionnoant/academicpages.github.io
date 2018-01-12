@@ -52,6 +52,6 @@ Total water usage in Toronto appears to have shifted from Etobicoke York and Sca
 ![center](/images/2017-12-28-Where-has-all-the-water-gone/PercentofTotalResUsage2015.jpg)
 *Figure 6: Percentage of Total Residential Water Usage by Community Region*
 
-## Conclusion
-
+Conclusion
+------
 That’s it, all done! Hope you enjoyed this post. It’s been a while since I have been able to post anything and I’m happy I had some time work through this and hopefully provide some insight into water usage throughout the city. 
